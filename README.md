@@ -10,7 +10,7 @@ This project employs state-of-the-art machine learning algorithms to develop the
 The model is trained using historical soil data with known contamination levels to learn patterns and correlations between features and contamination. The trained model can then be used to predict contamination levels for new, unseen soil samples.
 
 # Dataset
-The soil contamination prediction model in this project has been trained using a publicly available dataset sourced from Kaggle. The dataset contains comprehensive information on soil properties and corresponding contamination levels.
+The soil contamination prediction model in this project has been trained using a publicly available dataset sourced from Kaggle (https://www.kaggle.com/datasets/nmvsaidaswanth/soildataset). The dataset contains comprehensive information on soil properties and corresponding contamination levels.
 
 The dataset consists of a variety of features such as pH levels, nutrient content, organic matter, and various chemical attributes. Each instance in the dataset is labeled with a contamination level, indicating the severity of soil contamination.
 
